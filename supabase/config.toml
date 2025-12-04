@@ -1,0 +1,4 @@
+project_id = "bhbfkqvjeamkeuejqzkp"
+
+[functions.survival-chat]
+verify_jwt = false
