@@ -152,16 +152,7 @@ TypeScript
 
 -   **App not installing?** PWA features require HTTPS or `localhost`.
 
--   **Data missing?** Check `Application > IndexedDB` in DevTools. If it's empty, hit the "Download Offline Content" button in Settings.
-
-🚧 Roadmap (Phase 2 & 3)
-------------------------
-
--   [ ] **AI Assistant:** Local-only LLM for emergency Q&A.
-
--   [ ] **Tools:** Flashlight, SOS signaler, Unit converters.
-
--   [ ] **Maps:** Offline vector maps (Leaflet/OpenLayers).
+-   **Data missing?** Check `Application > IndexedDB` in DevTools. If it's empty, hit the "Download Offline Content" button in Setting
 
 📄 License
 ----------
@@ -170,4 +161,4 @@ MIT. Build it, fork it, survive with it.
 
 * * * * *
 
-*Built with panic-induced adrenaline by [ShAd0wZi](https://www.google.com/search?q=https://github.com/ShAd0wZi).*
+*Built by [ShAd0wZi](https://www.google.com/search?q=https://github.com/ShAd0wZi).*
